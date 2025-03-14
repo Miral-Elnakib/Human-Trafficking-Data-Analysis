@@ -83,8 +83,6 @@ pycountry_convert
 ### **Exploitation Types by Age Group**
 - Heatmap highlighting exploitation prevalence across age ranges.
 
-*(Replace placeholders with actual image paths after generating and uploading visuals to your repo.)*
-
 ## Future Enhancements
 - Add time-series analysis for trends over years.
 - Incorporate more detailed geographic visualizations (e.g., choropleth maps).
